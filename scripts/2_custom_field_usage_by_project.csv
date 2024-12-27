@@ -1,0 +1,31 @@
+custom_field_id,custom_field_name,project_key,project_name,issues_using_field
+customfield_10000,Development,PM,Project management,6
+customfield_10000,Development,SCRUM,Scrum Project,23
+customfield_10100,Parent Link,PM,Project management,0
+customfield_10100,Parent Link,SCRUM,Scrum Project,3
+customfield_10101,Target start,PM,Project management,0
+customfield_10101,Target start,SCRUM,Scrum Project,0
+customfield_10102,Target end,PM,Project management,0
+customfield_10102,Target end,SCRUM,Scrum Project,0
+customfield_10103,Original story points,PM,Project management,0
+customfield_10103,Original story points,SCRUM,Scrum Project,0
+customfield_10104,Epic Name,PM,Project management,0
+customfield_10104,Epic Name,SCRUM,Scrum Project,0
+customfield_10105,Epic Status,PM,Project management,0
+customfield_10105,Epic Status,SCRUM,Scrum Project,0
+customfield_10106,Epic Colour,PM,Project management,0
+customfield_10106,Epic Colour,SCRUM,Scrum Project,0
+customfield_10107,Epic Link,PM,Project management,0
+customfield_10107,Epic Link,SCRUM,Scrum Project,0
+customfield_10108,Sprint,PM,Project management,0
+customfield_10108,Sprint,SCRUM,Scrum Project,14
+customfield_10109,Rank,PM,Project management,6
+customfield_10109,Rank,SCRUM,Scrum Project,23
+customfield_10110,Story Points,PM,Project management,0
+customfield_10110,Story Points,SCRUM,Scrum Project,17
+customfield_10111,Team,PM,Project management,0
+customfield_10111,Team,SCRUM,Scrum Project,0
+customfield_10112,Multi-Select Source,PM,Project management,0
+customfield_10112,Multi-Select Source,SCRUM,Scrum Project,7
+customfield_10113,Multi-Select Destination,PM,Project management,0
+customfield_10113,Multi-Select Destination,SCRUM,Scrum Project,0

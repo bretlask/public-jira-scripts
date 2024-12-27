@@ -1,0 +1,3 @@
+(.venv) ~/IdeaProjects/public-jira-scripts/scripts git:[main]
+./list_jira_custom_fields.py
+Custom fields have been written to list_jira_custom_fields.csv successfully.

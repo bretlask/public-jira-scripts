@@ -1,0 +1,19 @@
+(.venv) ~/IdeaProjects/public-jira-scripts/scripts git:[main]
+./3_copy_multi-select_values_between_fields.py
+Fetching issues with source field 'cf[10112]'...
+Successfully saved issue 'SCRUM-2'.
+Successfully saved issue 'SCRUM-3'.
+Successfully saved issue 'SCRUM-4'.
+Successfully saved issue 'SCRUM-7'.
+Successfully saved issue 'SCRUM-8'.
+Successfully saved issue 'SCRUM-13'.
+Successfully saved issue 'SCRUM-23'.
+Fetching issues with source field 'customfield_10113'...
+Dynamic option mapping created: {'10002': '10005', '10001': '10004', '10000': '10003'}
+Skipping issue 'SCRUM-2' because the destination values are already up-to-date.
+Skipping issue 'SCRUM-3' because the destination values are already up-to-date.
+Skipping issue 'SCRUM-4' because the destination values are already up-to-date.
+Skipping issue 'SCRUM-7' because the destination values are already up-to-date.
+Skipping issue 'SCRUM-8' because the destination values are already up-to-date.
+Skipping issue 'SCRUM-13' because the destination values are already up-to-date.
+Skipping issue 'SCRUM-23' because the destination values are already up-to-date.

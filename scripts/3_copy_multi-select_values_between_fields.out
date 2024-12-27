@@ -1,0 +1,33 @@
+(.venv) ~/IdeaProjects/public-jira-scripts/scripts git:[main]
+./3_copy_multi-select_values_between_fields.py
+Fetching issues with source field 'cf[10112]'...
+Successfully saved issue 'SCRUM-2'.
+Successfully saved issue 'SCRUM-3'.
+Successfully saved issue 'SCRUM-4'.
+Successfully saved issue 'SCRUM-7'.
+Successfully saved issue 'SCRUM-8'.
+Successfully saved issue 'SCRUM-13'.
+Successfully saved issue 'SCRUM-23'.
+Fetching issues with source field 'customfield_10113'...
+Dynamic option mapping created: {'10002': '10005', '10001': '10004', '10000': '10003'}
+Updating issue 'SCRUM-2' with normalized destination values: [{'id': '10005'}]
+Updating issue 'SCRUM-2' with payload: {'fields': {'customfield_10113': [{'id': '10005'}]}}
+Successfully updated issue 'SCRUM-2'.
+Updating issue 'SCRUM-3' with normalized destination values: [{'id': '10004'}]
+Updating issue 'SCRUM-3' with payload: {'fields': {'customfield_10113': [{'id': '10004'}]}}
+Successfully updated issue 'SCRUM-3'.
+Updating issue 'SCRUM-4' with normalized destination values: [{'id': '10003'}]
+Updating issue 'SCRUM-4' with payload: {'fields': {'customfield_10113': [{'id': '10003'}]}}
+Successfully updated issue 'SCRUM-4'.
+Updating issue 'SCRUM-7' with normalized destination values: [{'id': '10005'}, {'id': '10004'}]
+Updating issue 'SCRUM-7' with payload: {'fields': {'customfield_10113': [{'id': '10005'}, {'id': '10004'}]}}
+Successfully updated issue 'SCRUM-7'.
+Updating issue 'SCRUM-8' with normalized destination values: [{'id': '10005'}, {'id': '10003'}, {'id': '10004'}]
+Updating issue 'SCRUM-8' with payload: {'fields': {'customfield_10113': [{'id': '10005'}, {'id': '10003'}, {'id': '10004'}]}}
+Successfully updated issue 'SCRUM-8'.
+Updating issue 'SCRUM-13' with normalized destination values: [{'id': '10005'}, {'id': '10003'}]
+Updating issue 'SCRUM-13' with payload: {'fields': {'customfield_10113': [{'id': '10005'}, {'id': '10003'}]}}
+Successfully updated issue 'SCRUM-13'.
+Updating issue 'SCRUM-23' with normalized destination values: [{'id': '10003'}, {'id': '10004'}]
+Updating issue 'SCRUM-23' with payload: {'fields': {'customfield_10113': [{'id': '10003'}, {'id': '10004'}]}}
+Successfully updated issue 'SCRUM-23'.

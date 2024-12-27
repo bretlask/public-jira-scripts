@@ -1,0 +1,8 @@
+issue_key,source_values,destination_values
+SCRUM-2,['Value3'],
+SCRUM-3,['Value2'],
+SCRUM-4,['Value1'],
+SCRUM-7,"['Value2', 'Value3']",
+SCRUM-8,"['Value1', 'Value2', 'Value3']",
+SCRUM-13,"['Value1', 'Value3']",
+SCRUM-23,"['Value1', 'Value2']",
